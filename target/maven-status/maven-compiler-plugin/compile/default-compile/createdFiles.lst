@@ -1,0 +1,5 @@
+br/gov/sp/fatec/lab4/evaluationlab4/controller/AltAlertaController.class
+br/gov/sp/fatec/lab4/evaluationlab4/repository/AltAlertaRepository.class
+br/gov/sp/fatec/lab4/evaluationlab4/service/AltAlertaService.class
+br/gov/sp/fatec/lab4/evaluationlab4/entity/AltAlerta.class
+br/gov/sp/fatec/lab4/evaluationlab4/EvaluationLab4Application.class

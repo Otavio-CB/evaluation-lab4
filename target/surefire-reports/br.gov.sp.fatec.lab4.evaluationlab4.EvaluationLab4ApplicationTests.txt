@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: br.gov.sp.fatec.lab4.evaluationlab4.EvaluationLab4ApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.480 s -- in br.gov.sp.fatec.lab4.evaluationlab4.EvaluationLab4ApplicationTests
